@@ -32,7 +32,7 @@ versions of Theano.
 
 #### Libraries
 # Standard library
-import cPickle
+import pickle as cPickle
 import gzip
 
 # Third-party libraries

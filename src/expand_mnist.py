@@ -16,7 +16,7 @@ from __future__ import print_function
 #### Libraries
 
 # Standard library
-import cPickle
+import pickle as cPickle
 import gzip
 import os.path
 import random
